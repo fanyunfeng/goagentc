@@ -1,7 +1,6 @@
 
 A lightweight branch of GoAgent.
 
-Only has client.
 
 
 ## License
