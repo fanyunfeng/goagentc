@@ -1,5 +1,3 @@
-goagent 3.2.3 [http://git.io/goa](https://nodeload.github.com/goagent/goagent/legacy.zip/3.0)
-
 
 A lightweight branch of GoAgent.
 
